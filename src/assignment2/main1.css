@@ -1,0 +1,13 @@
+td,
+th {
+  border: 2px dashed green;
+  padding: 8px;
+}
+
+th {
+  background-color: cyan;
+}
+
+.multiply {
+  border: 1px solid black;
+}
